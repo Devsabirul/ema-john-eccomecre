@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.products{
+    width: 68%;
+    float: left;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+}
+.card{
+    width: 30%;
+    display: block;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

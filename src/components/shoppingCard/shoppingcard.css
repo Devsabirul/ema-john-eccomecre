@@ -1,0 +1,26 @@
+table{
+    margin-top: 25px;
+}
+.first_td{
+    text-align: left;
+}
+.total_price{
+    font-size: 20px;
+    color:red;
+    text-align: left;
+    font-weight: bold;
+    line-height: 50px;
+}
+.customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .customers td, .customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .customers tr:nth-child(even){
+      background-color: #f2f2f2;
+}
